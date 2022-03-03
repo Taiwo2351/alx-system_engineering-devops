@@ -1,1 +1,1 @@
-pwd -Printing the current working directory
+Magic file
