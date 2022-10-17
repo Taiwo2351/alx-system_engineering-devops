@@ -1,11 +1,8 @@
-# 0x14. Mysql
+MySQL
 
-## Description
-This project sets up a MySQL primary-replica cluster on our own servers.
+Resourceses
 
-## Table of contents
-Files | Description
------ | -----------
-[4-mysql_configuration_primary](./4-mysql_configuration_primary) | MySQL primary configuration
-[4-mysql_configuration_replica](./4-mysql_configuration_replica) | MySQL replica configuration
-[5-mysql_backup](./5-mysql_backup) | Bash script that generates a MySQL dump and creates a compressed archive out of it
+    How To Set Up Replication in MySQL
+    Initial Server Setup with Ubuntu 20.04
+    How To Choose a Redundancy Plan To Ensure High Availability
+
