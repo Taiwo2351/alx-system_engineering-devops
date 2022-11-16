@@ -3,7 +3,7 @@ Postmortem
 During ALX System Engineering & DevOps project 0x17. Web stack debugging #3. GET requests on the server led to 500 Internal Server Error's at about 0600hrs EAT, when the expected response was an HTML file defining a simple Holberton WordPress site.
 Debugging Process
 
-Akins Tunde Kola, Bug Debugger noticed that and he promptly proceeded to undergo solving the problem.
+Taiwo, Bug Debugger noticed that and he promptly proceeded to undergo solving the problem.
 
     Checked running processes using ps aux. Two apache2 processes - root and www-data - were properly running.
 
